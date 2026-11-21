@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vaibhavkumar.dev/sitemap.xml
+
